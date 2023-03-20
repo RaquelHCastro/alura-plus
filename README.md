@@ -9,8 +9,8 @@ Linguagens usadas:
 <p>HTML</p>
 <p>CSS</p> 
 
-<p>
+
 ![Cabeçalho da página](https://github.com/RaquelHCastro/alura-plus/blob/main/Alura%2B%20site.jpg)
-</p>
+
 
 
