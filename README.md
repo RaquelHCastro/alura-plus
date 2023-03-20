@@ -10,5 +10,5 @@ HTML
 CSS 
 
 
-![Cabeçalho da página](https://imgur.com/a/UayS9H9)
+![Cabeçalho da página](https://github.com/RaquelHCastro/alura-plus/blob/main/Alura%2B%20site.jpg)
 
