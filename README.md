@@ -6,8 +6,8 @@
 :white_check_mark: Projeto desenvolvido seguindo o curso prático de HTML e CSS da Alura. 
 
 <h2>Tecnologias usadas:</h2>
-- `` HTML ``
-- `` CSS ``
+* `` HTML ``
+* `` CSS ``
 
 
 ![Cabeçalho da página](https://github.com/RaquelHCastro/alura-plus/blob/main/Alura%2B%20site.jpg)
