@@ -10,5 +10,5 @@ HTML
 CSS 
 
 
-![Cabeçalho da página](file:///Alura%2B%20site.jpg)
->>>>>>> 35fba5491462ec8770059fe8b47edb54210d592a
+[Cabeçalho da página](file:///Alura%2B%20site.jpg)
+
