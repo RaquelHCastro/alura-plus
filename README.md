@@ -12,5 +12,8 @@
 
 ![Cabeçalho da página](https://github.com/RaquelHCastro/alura-plus/blob/main/Alura%2B%20site.jpg)
 
+# Autores
 
+| [<img src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Raquel Hypólito Castro</sub>](https://github.com/raquelhcastro) |  
+| :---: | :---: | :---: |
 
