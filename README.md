@@ -10,5 +10,5 @@ HTML
 CSS 
 
 
-[Cabeçalho da página](file:///Alura%2B%20site.jpg)
+[Cabeçalho da página](https://imgur.com/a/UayS9H9)
 
