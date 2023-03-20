@@ -8,7 +8,7 @@
 <h2>Tecnologias usadas:</h2>
 - HTML <br>
 - CSS
-
+<p>
 
 ![Cabeçalho da página](https://github.com/RaquelHCastro/alura-plus/blob/main/Alura%2B%20site.jpg)
 
